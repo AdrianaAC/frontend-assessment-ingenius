@@ -2,6 +2,10 @@
 
 Course catalog UI built as a technical assessment.
 
+# 📸 Preview
+
+![Frontend Assessment Screenshot](./screen.png)
+
 ## ✨ What’s inside
 - Course list with **search/filter**
 - **Course details** and **lesson details**
